@@ -1,0 +1,152 @@
+1
+(1328, 747) 3channels
+imread: 2.045
+img1detected: 2319  time: 1.661
+img2detected: 2349  time: 1.678
+img1computed  time: 1.369
+img2computed  time: 1.371
+matches: 2319  time: 1.870
+goodmatches: 144
+incline: -0.075255
+parallelmatches: 36
+filtering end  time: 0.008
+
+계속하려면 아무 키나 누르십시오 . . .
+(1328, 747) 3channels
+imread: 2.103
+img1detected: 6357  time: 1.260
+img2detected: 6317  time: 1.257
+img1computed  time: 4.830
+img2computed  time: 4.651
+matches: 6357  time: 4.583
+goodmatches: 397
+incline: -0.083040
+parallelmatches: 60
+filtering end  time: 0.025
+
+계속하려면 아무 키나 누르십시오 . . .
+
+2
+(1328, 747) 3channels
+imread: 2.091
+img1detected: 2604  time: 1.728
+img2detected: 2500  time: 1.726
+img1computed  time: 1.469
+img2computed  time: 1.434
+matches: 2604  time: 2.624
+goodmatches: 162
+incline: -0.020034
+parallelmatches: 85
+filtering end  time: 0.010
+
+계속하려면 아무 키나 누르십시오 . . .
+(1328, 747) 3channels
+imread: 2.190
+img1detected: 6424  time: 1.370
+img2detected: 6434  time: 1.286
+img1computed  time: 5.209
+img2computed  time: 4.978
+matches: 6424  time: 5.833
+goodmatches: 401
+incline: 0.006581
+parallelmatches: 59
+filtering end  time: 0.024
+
+계속하려면 아무 키나 누르십시오 . . .
+
+3
+(1328, 747) 3channels
+imread: 2.049
+img1detected: 667  time: 1.428
+img2detected: 910  time: 1.507
+img1computed  time: 0.955
+img2computed  time: 1.028
+matches: 667  time: 0.550
+goodmatches: 166
+incline: 0.292101
+parallelmatches: 2
+filtering end  time: 0.002
+
+계속하려면 아무 키나 누르십시오 . . .
+(1328, 747) 3channels
+imread: 2.016
+img1detected: 2832  time: 0.857
+img2detected: 3740  time: 0.979
+img1computed  time: 2.438
+img2computed  time: 2.961
+matches: 2832  time: 2.147
+goodmatches: 177
+incline: 0.036318
+parallelmatches: 19
+filtering end  time: 0.010
+
+계속하려면 아무 키나 누르십시오 . . .
+
+4
+(1328, 747) 3channels
+imread: 2.035
+img1detected: 1077  time: 1.475
+img2detected: 1063  time: 1.515
+img1computed  time: 1.050
+img2computed  time: 1.068
+matches: 1077  time: 0.813
+goodmatches: 134
+incline: 0.091157
+parallelmatches: 35
+filtering end  time: 0.004
+
+계속하려면 아무 키나 누르십시오 . . .
+(1328, 747) 3channels
+imread: 2.062
+img1detected: 4496  time: 1.047
+img2detected: 4620  time: 1.060
+img1computed  time: 3.472
+img2computed  time: 3.366
+matches: 4496  time: 3.341
+goodmatches: 562
+incline: 0.148515
+parallelmatches: 36
+filtering end  time: 0.018
+
+계속하려면 아무 키나 누르십시오 . . .
+
+5
+(1328, 747) 3channels
+imread: 2.133
+img1detected: 1516  time: 1.546
+img2detected: 1585  time: 1.565
+img1computed  time: 1.154
+img2computed  time: 1.174
+matches: 1516  time: 1.226
+goodmatches: 94
+incline: 0.246360
+parallelmatches: 2
+filtering end  time: 0.005
+
+계속하려면 아무 키나 누르십시오 . . .
+(1328, 747) 3channels
+imread: 2.068
+img1detected: 1516  time: 1.558
+img2detected: 1585  time: 1.574
+img1computed  time: 1.167
+img2computed  time: 1.195
+matches: 1516  time: 1.347
+goodmatches: 189
+incline: 0.246360
+parallelmatches: 11
+filtering end  time: 0.006
+
+계속하려면 아무 키나 누르십시오 . . .
+(1328, 747) 3channels
+imread: 2.081
+img1detected: 6257  time: 1.281
+img2detected: 6076  time: 1.261
+img1computed  time: 4.395
+img2computed  time: 4.215
+matches: 6257  time: 4.667
+goodmatches: 391
+incline: 0.123212
+parallelmatches: 23
+filtering end  time: 0.024
+
+계속하려면 아무 키나 누르십시오 . . .
